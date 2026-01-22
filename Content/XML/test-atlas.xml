@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas>
+	<Texture>Textures/MAS-Characters-DB</Texture>
+	<Regions>
+		<Region name="duck" x="0" y="32" width="8" height="8" />
+		<Region name="dog" x="40" y="32" width="8" height="8" />
+	</Regions>
+</TextureAtlas>
