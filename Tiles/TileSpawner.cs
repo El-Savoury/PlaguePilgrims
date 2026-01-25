@@ -5,16 +5,6 @@ using System.Collections.Generic;
 
 namespace PlaguePilgrims.Tiles
 {
-    public enum TileType
-    {
-        Water,
-        Rock,
-        Rapid,
-        Weeds,
-        Grass
-    }
-
-
     public class TileSpawner
     {
         const int MAX_NEIGHBOURS = 5;
@@ -35,7 +25,7 @@ namespace PlaguePilgrims.Tiles
         {
             _weightedPicker.Add(TileType.Water, WATER_WEIGHT);
             _weightedPicker.Add(TileType.Rock, ROCK_WEIGHT);
-            _weightedPicker.Add(TileType.Weeds, WEEDS_WEIGHT);
+            _weightedPicker.Add(TileType.Plant, WEEDS_WEIGHT);
         }
 
 
@@ -61,27 +51,27 @@ namespace PlaguePilgrims.Tiles
         // TODO:
         // Apply a contextual modifier value e.g. to change tile type based on distance to the end of the level.
 
-        public Tile SpawnTile(Random random)
-        {
-            TileType type = _weightedPicker.Pick(random);
+        //public Tile SpawnTile(Random random)
+        //{
+        //    TileType type = _weightedPicker.Pick(random);
 
-            switch (type)
-            {
-                case TileType.Water:
-                    return new WaterTile();
+        //    switch (type)
+        //    {
+        //        case TileType.Water:
+                    
 
-                case TileType.Rock:
-                    return new RockTile();
+        //        case TileType.Rock:
+                    
 
-                case TileType.Weeds:
-                    return new WeedsTile(3);
+        //        case TileType.Plant:
+                    
 
-                case TileType.Rapid:
-                    return new ConveyorTile();
+        //        case TileType.Rapid:
 
-                default:
-                    return null;
-            }
-        }
+
+        //        default:
+        //            break;
+        //    }
+        //}
     }
 }

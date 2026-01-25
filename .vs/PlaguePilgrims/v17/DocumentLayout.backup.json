@@ -3,6 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{423A1827-348E-5A4B-8754-EB1A30396626}|..\\MonogameLibrary\\MonogameLibrary.csproj|c:\\users\\ross_\\documents\\programming\\monogamelibrary\\tilemaps\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423A1827-348E-5A4B-8754-EB1A30396626}|..\\MonogameLibrary\\MonogameLibrary.csproj|c:\\users\\ross_\\documents\\programming\\monogamelibrary\\tilemaps\\tilemaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423A1827-348E-5A4B-8754-EB1A30396626}|..\\MonogameLibrary\\MonogameLibrary.csproj|c:\\users\\ross_\\documents\\programming\\monogamelibrary\\tilemaps\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D25BA7FD-AE0D-4C0A-9B70-594E19B6E09B}|PlaguePilgrims.csproj|c:\\users\\ross_\\documents\\programming\\plaguepilgrims\\tiles\\weightedtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D25BA7FD-AE0D-4C0A-9B70-594E19B6E09B}|PlaguePilgrims.csproj|solutionrelative:tiles\\weightedtile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,12 +36,6 @@
       "RelativeMoniker": "D:0:0:{D25BA7FD-AE0D-4C0A-9B70-594E19B6E09B}|PlaguePilgrims.csproj|solutionrelative:tiles\\watertile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423A1827-348E-5A4B-8754-EB1A30396626}|..\\MonogameLibrary\\MonogameLibrary.csproj|c:\\users\\ross_\\documents\\programming\\monogamelibrary\\tilemaps\\tilemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423A1827-348E-5A4B-8754-EB1A30396626}|..\\MonogameLibrary\\MonogameLibrary.csproj|c:\\users\\ross_\\documents\\programming\\monogamelibrary\\tilemaps\\tilemaplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D25BA7FD-AE0D-4C0A-9B70-594E19B6E09B}|PlaguePilgrims.csproj|c:\\users\\ross_\\documents\\programming\\plaguepilgrims\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D25BA7FD-AE0D-4C0A-9B70-594E19B6E09B}|PlaguePilgrims.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -44,11 +47,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Main.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Main.cs",
               "RelativeDocumentMoniker": "Main.cs",
@@ -57,7 +60,19 @@
               "ViewState": "AgIAAGgAAAAAAAAAAAAAAG8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T23:34:44.326Z",
-              "IsPinned": true,
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tile.cs",
+              "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\MonogameLibrary\\Tilemaps\\Tile.cs",
+              "RelativeDocumentMoniker": "..\\MonogameLibrary\\Tilemaps\\Tile.cs",
+              "ToolTip": "C:\\Users\\ross_\\Documents\\Programming\\MonogameLibrary\\Tilemaps\\Tile.cs",
+              "RelativeToolTip": "..\\MonogameLibrary\\Tilemaps\\Tile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T14:55:40.154Z",
               "EditorCaption": ""
             },
             {
@@ -66,33 +81,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WeightedTile.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\WeightedTile.cs",
               "RelativeDocumentMoniker": "Tiles\\WeightedTile.cs",
-              "ToolTip": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\WeightedTile.cs*",
-              "RelativeToolTip": "Tiles\\WeightedTile.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\WeightedTile.cs",
+              "RelativeToolTip": "Tiles\\WeightedTile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-22T00:05:02.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WeedsTile.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\WeedsTile.cs",
               "RelativeDocumentMoniker": "Tiles\\WeedsTile.cs",
-              "ToolTip": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\WeedsTile.cs*",
-              "RelativeToolTip": "Tiles\\WeedsTile.cs*",
+              "ToolTip": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\WeedsTile.cs",
+              "RelativeToolTip": "Tiles\\WeedsTile.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T23:48:39.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T23:48:39.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "WaterTile.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\WaterTile.cs",
               "RelativeDocumentMoniker": "Tiles\\WaterTile.cs",
@@ -100,12 +114,11 @@
               "RelativeToolTip": "Tiles\\WaterTile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T22:32:46.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T22:32:46.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "RockTile.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\RockTile.cs",
               "RelativeDocumentMoniker": "Tiles\\RockTile.cs",
@@ -113,38 +126,37 @@
               "RelativeToolTip": "Tiles\\RockTile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T22:14:20.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T22:14:20.526Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "TilemapLayer.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\MonogameLibrary\\Tilemaps\\TilemapLayer.cs",
               "RelativeDocumentMoniker": "..\\MonogameLibrary\\Tilemaps\\TilemapLayer.cs",
               "ToolTip": "C:\\Users\\ross_\\Documents\\Programming\\MonogameLibrary\\Tilemaps\\TilemapLayer.cs",
               "RelativeToolTip": "..\\MonogameLibrary\\Tilemaps\\TilemapLayer.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAYwIgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewCMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-20T20:14:03.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Tilemap.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\MonogameLibrary\\Tilemaps\\Tilemap.cs",
               "RelativeDocumentMoniker": "..\\MonogameLibrary\\Tilemaps\\Tilemap.cs",
               "ToolTip": "C:\\Users\\ross_\\Documents\\Programming\\MonogameLibrary\\Tilemaps\\Tilemap.cs",
               "RelativeToolTip": "..\\MonogameLibrary\\Tilemaps\\Tilemap.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAAawMQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwv9EAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-17T23:19:57.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
@@ -156,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "TileSpawner.cs",
               "DocumentMoniker": "C:\\Users\\ross_\\Documents\\Programming\\PlaguePilgrims\\Tiles\\TileSpawner.cs",
               "RelativeDocumentMoniker": "Tiles\\TileSpawner.cs",
@@ -164,8 +176,7 @@
               "RelativeToolTip": "Tiles\\TileSpawner.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T22:22:01.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T22:22:01.784Z"
             }
           ]
         }

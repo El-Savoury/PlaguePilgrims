@@ -81,6 +81,8 @@ namespace PlaguePilgrims
             TileSpawner spawner = new TileSpawner();
             Random random = new Random();
 
+            Tile tile = new Tile(TileType.Rapid, TileFlags.FlipVertical);
+
             // Always start with a row of water tiles
             //for (int x = 0; x < tilemap.Columns; x++)
             //{
